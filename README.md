@@ -1,6 +1,6 @@
 # joke_app.py
 Simple tkinter project which uses API to show random programming Joke.
-# Try it on [Repl.it](link=https://replit.com/@RohanChaturvedi/Jokeapppy?v=1)
+# Try it on [Repl.it](https://replit.com/@RohanChaturvedi/Jokeapppy?v=1)
 ## Made with: 
 Python3, Tkinter, Requests, RapidAPI
 
